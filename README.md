@@ -2,7 +2,7 @@
 *Mạch điều khiển bình nước nóng được phát triển dựa trên ATMega8/88/168/328*
 
 ### Giới thiệu
-Mạch điều khiển bình nước nóng thông minh Mitra hiển thị LED 7 thanh hỗ trợ cảm ứng chạm và remote điều khiển từ xa.
+Mạch điều khiển bình nước nóng thông minh hiển thị LED 7 thanh hỗ trợ cảm ứng chạm và remote điều khiển từ xa, có cảnh báo lỗi.
 
 ### Tính năng
 - Cảnh báo lỗi: đốt khô (E3), lỗi cảm biến (E1), lỗi đầu đốt (E2).
