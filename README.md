@@ -15,4 +15,4 @@ Mạch điều khiển bình nước nóng thông minh Mitra hiển thị LED 7 
   + Enter/Alarm: 2 chế độ: Nhấn 1 chạm để thoát khỏi chế độ cài đặt nhiệt / Nhấn giữ quá 3 giây vào chế độ hẹn giờ tắt thiết bị, tiếp tục ấn 1 chạm để chọn các mức hẹn giờ, chương trình sẽ tự thoát khỏi mode này sau 3 giây để vào chế độ bình thường.
 - LED 7 hiển thị nhiệt độ:
   + Chớp tắt toàn bộ LED: báo hiệu đang ở chế độ cài đặt hoặc hẹn giờ.
-  + Chớp đắt dấu chấm: báo hiệu đang có hẹn giờ chạy
+  + Chớp đắt dấu chấm: báo hiệu đang có hẹn giờ chạy.
