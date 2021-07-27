@@ -16,3 +16,4 @@ Mạch điều khiển bình nước nóng thông minh Mitra hiển thị LED 7 
 - LED 7 hiển thị nhiệt độ:
   + Chớp tắt toàn bộ LED: báo hiệu đang ở chế độ cài đặt hoặc hẹn giờ.
   + Chớp đắt dấu chấm: báo hiệu đang có hẹn giờ chạy.
+- Hỗ trợ remote 5 channel điều khiển từ xa.
