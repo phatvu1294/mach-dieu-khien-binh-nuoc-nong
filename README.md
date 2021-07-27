@@ -1,5 +1,5 @@
-# Mạch điều khiển bình nước nóng Mitra
-*Mạch điều khiển bình nước nóng Mitra được phát triển dựa trên ATMega8/88/168/328*
+# Mạch điều khiển bình nước nóng
+*Mạch điều khiển bình nước nóng được phát triển dựa trên ATMega8/88/168/328*
 
 ### Giới thiệu
 Mạch điều khiển bình nước nóng thông minh Mitra hiển thị LED 7 thanh hỗ trợ cảm ứng chạm và remote điều khiển từ xa.
