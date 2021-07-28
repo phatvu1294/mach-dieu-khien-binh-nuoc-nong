@@ -10,8 +10,8 @@ Mạch điều khiển bình nước nóng thông minh hiển thị LED 7 thanh 
 - Hỗ trợ hẹn giờ tắt bình: 15m, 30m, 1h, 2h, 3h.
 - 4 nút cảm ứng chạm:
   + Power: phím bật tắt nguồn.
-  + Dec: Giảm nhiệt độ cài đặt bình, chương trình sẽ tự thoát khỏi mode này sau 3 giây để vào chế độ bình thường
-  + Inc: Tăng nhiệt độ cài đặt bình, chương trình sẽ tự thoát khỏi mode này sau 3 giây để vào chế độ bình thường
+  + Dec: Giảm nhiệt độ cài đặt bình, chương trình sẽ tự thoát khỏi mode này sau 3 giây để vào chế độ bình thường.
+  + Inc: Tăng nhiệt độ cài đặt bình, chương trình sẽ tự thoát khỏi mode này sau 3 giây để vào chế độ bình thường.
   + Enter/Alarm: 2 chế độ: Nhấn 1 chạm để thoát khỏi chế độ cài đặt nhiệt / Nhấn giữ quá 3 giây vào chế độ hẹn giờ tắt thiết bị, tiếp tục ấn 1 chạm để chọn các mức hẹn giờ, chương trình sẽ tự thoát khỏi mode này sau 3 giây để vào chế độ bình thường.
 - LED 7 hiển thị nhiệt độ:
   + Chớp tắt toàn bộ LED: báo hiệu đang ở chế độ cài đặt hoặc hẹn giờ.
