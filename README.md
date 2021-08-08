@@ -4,6 +4,8 @@
 ### Giới thiệu
 Mạch điều khiển bình nước nóng thông minh hiển thị LED 7 thanh hỗ trợ cảm ứng chạm và remote điều khiển từ xa, có cảnh báo lỗi.
 
+![Mạch điều khiển bình nước nóng](/images/image-01.png)
+
 ### Tính năng
 - Cảnh báo lỗi: lỗi cảm biến (E1), lỗi đầu đốt (E2).
 - Tự động đóng cắt relay tới nhiệt độ đặt.
