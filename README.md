@@ -19,3 +19,6 @@ Mạch điều khiển bình nước nóng thông minh hiển thị LED 7 thanh 
   + Chớp tắt toàn bộ LED: báo hiệu đang ở chế độ cài đặt hoặc hẹn giờ.
   + Chớp đắt dấu chấm: báo hiệu đang có hẹn giờ chạy.
 - Hỗ trợ remote 5 channel điều khiển từ xa.
+
+### Video demo
+[https://www.youtube.com/watch?v=QyWi2RASTpk](https://www.youtube.com/watch?v=QyWi2RASTpk)
