@@ -7,9 +7,9 @@ Mạch điều khiển bình nước nóng thông minh hiển thị LED 7 thanh 
 ![Mạch điều khiển bình nước nóng](/images/image-01.png)
 
 ### Tính năng
-- Cảnh báo lỗi: lỗi cảm biến (E1), lỗi đầu đốt (E2).
+- Cảnh báo lỗi: lỗi cảm biến (E1), lỗi đầu đốt (E2), lỗi đầu đốt (E3).
 - Tự động đóng cắt relay tới nhiệt độ đặt.
-- Hỗ trợ hẹn giờ tắt bình: 15m, 30m, 1h, 2h, 3h.
+- Hỗ trợ hẹn giờ tắt bình: tắt hẹn giờ, 1h, 2h, 3h, 4h, 5h, 6h, 7h, 8h, 9h.
 - 4 nút cảm ứng chạm:
   + Power: phím bật tắt nguồn.
   + Dec: Giảm nhiệt độ cài đặt bình, chương trình sẽ tự thoát khỏi mode này sau 3 giây để vào chế độ bình thường.
