@@ -1,4 +1,4 @@
-# Mạch Điều Khiển Bình Nước Nóng Public
+# Mạch điều khiển bình nước nóng (public)
 *Mạch điều khiển bình nước nóng được phát triển dựa trên ATMega8/88/168/328*
 
 ### Giới thiệu
